@@ -1,0 +1,1 @@
+![Output terminal](screenshots/output.png)
