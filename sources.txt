@@ -1,0 +1,5 @@
+C:\Users\USER\OneDrive\Desktop\semester3 java\tgs java\character-manager\src\com\unpri\charactermanager\Main.java
+C:\Users\USER\OneDrive\Desktop\semester3 java\tgs java\character-manager\src\com\unpri\charactermanager\model\Character.java
+C:\Users\USER\OneDrive\Desktop\semester3 java\tgs java\character-manager\src\com\unpri\charactermanager\model\CharacterManager.java
+C:\Users\USER\OneDrive\Desktop\semester3 java\tgs java\character-manager\src\com\unpri\charactermanager\model\CharacterType.java
+C:\Users\USER\OneDrive\Desktop\semester3 java\tgs java\character-manager\src\com\unpri\charactermanager\model\Main.java
